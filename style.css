@@ -85,7 +85,7 @@ nav img{
 .hero {
     position: relative;
     overflow: hidden;
-    background-image: url(images/annie-spratt-QckxruozjRg-unsplash.jpg); /* Replace with your image path */
+    background-image: url("images/annie-spratt-QckxruozjRg-unsplash.jpg"); /* Replace with your image path */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
